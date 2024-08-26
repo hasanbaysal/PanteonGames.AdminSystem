@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PanteonGames.AdminSystem.Entity", "PanteonGames.AdminSystem.Entity\PanteonGames.AdminSystem.Entity.csproj", "{A4182A3D-3D1D-41B6-8FE1-A6627D0D20A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PanteonGames.AdminSystem.Business", "PanteonGames.AdminSystem.Business\PanteonGames.AdminSystem.Business.csproj", "{4F128122-8419-4C8C-BEDF-1B2493061826}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PanteonGames.AdminSystem.Helper", "PanteonGames.AdminSystem.Helper\PanteonGames.AdminSystem.Helper.csproj", "{9B154E51-E5C8-4E04-988A-CD536FDD2C1B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PanteonGames.AdminSystem.Dto", "PanteonGames.AdminSystem.Dto\PanteonGames.AdminSystem.Dto.csproj", "{84693289-2E34-490C-A8AA-61E40798F787}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PanteonGames.AdminSystem.API", "PanteonGames.AdminSystem.API\PanteonGames.AdminSystem.API.csproj", "{70278583-2E96-49E6-9C01-2AE4AE116AEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanteonGames.Adminsystem.Data", "PanteonGames.Adminsystem.Data\PanteonGames.Adminsystem.Data.csproj", "{935F2033-6276-4A33-8E2D-7320D41936BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4182A3D-3D1D-41B6-8FE1-A6627D0D20A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4182A3D-3D1D-41B6-8FE1-A6627D0D20A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4182A3D-3D1D-41B6-8FE1-A6627D0D20A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4182A3D-3D1D-41B6-8FE1-A6627D0D20A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F128122-8419-4C8C-BEDF-1B2493061826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F128122-8419-4C8C-BEDF-1B2493061826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F128122-8419-4C8C-BEDF-1B2493061826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F128122-8419-4C8C-BEDF-1B2493061826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B154E51-E5C8-4E04-988A-CD536FDD2C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B154E51-E5C8-4E04-988A-CD536FDD2C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B154E51-E5C8-4E04-988A-CD536FDD2C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B154E51-E5C8-4E04-988A-CD536FDD2C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84693289-2E34-490C-A8AA-61E40798F787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84693289-2E34-490C-A8AA-61E40798F787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84693289-2E34-490C-A8AA-61E40798F787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84693289-2E34-490C-A8AA-61E40798F787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70278583-2E96-49E6-9C01-2AE4AE116AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70278583-2E96-49E6-9C01-2AE4AE116AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70278583-2E96-49E6-9C01-2AE4AE116AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70278583-2E96-49E6-9C01-2AE4AE116AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{935F2033-6276-4A33-8E2D-7320D41936BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935F2033-6276-4A33-8E2D-7320D41936BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935F2033-6276-4A33-8E2D-7320D41936BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935F2033-6276-4A33-8E2D-7320D41936BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {049D6BFB-964A-48E5-8237-AEB2694D6306}
+	EndGlobalSection
+EndGlobal

@@ -13,7 +13,7 @@
 * Repository, Response, Unit of work pattern
 
   
-### [UI react.js ](https://github.com/hasanbaysal/ui) ###
+### [UI react.js ](https://github.com/hasanbaysal/PanteonReactUI) ###
 
 
 
